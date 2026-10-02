@@ -1,0 +1,41 @@
+
+Madam, OTP?
+Packages come home all day, everyday. But the person standing at the door isn't the one whom the delivery person trusts.
+
+Deliveries and pickups are an elaborate dance that unfailingly drags in the entire household. And at the heart of the frustration is a distinctively Indian ritual: the delivery OTP. Originally invented to solve trust, it delivers interruption instead. The OTP arrives on the phone of the person in a meeting at the office while the delivery agent waits in front of their mother at home. Courier partners call a dozen times to ask for the location, which must then be shared on WhatsApp even though the app has always known it. People wait at home all day only for the pickup to be marked 'unavailable'.
+
+Respondents describe managing several deliveries a day as an annoyance they never signed up for. Parents and senior citizens are particularly affected because they 'struggle with collecting OTP and understanding delivery processes'. Returns are worse still — people describe replying to three separate chatbots to reschedule one pickup. The anger is specific because for most users, this seems like a problem that exists because the platform distrusts its own chain, and households pay for that distrust in interruptions.
+
+Who are these people
+Working twenty- and thirty-somethings who order on behalf of the family, so parcels arrive where they aren't, at doors held by mothers, parents and watchmen, all while the platform insists on speaking only to them.
+
+In their own words:
+“Coordinating drop off my online delivery. It has become an insane task to coordinate delivery for my online orders. Most orders are delivered separately and now needs an OTP. I don't live in an independent house so it needs to be delivered at the door. If I am not at home (or busy with something), my poor mother struggles with collecting otp and understanding delivery processes. Make it several times a day (because no online supermart ever has all grocery items or …”
+Respondent #462
+25–34, Bengaluru
+
+“I had to constantly check for my Amazon delivery, since I am in a college, often the delivery guys come during lectures, so they call me for OTP or to inform that the delivery is done. I wish I had an assistant who can identify these call and coordinate the drop without disturbing me.”
+Respondent #326
+25–34, Mumbai
+
+“I had a return pickup fixed but the agent marked me as unavailable when I was home at all times, no call, no messages. Then I had to reply to at least 3 chatbots one asking if agent contacted, two asking if I would like to reschedule pickup and I had to reply two times to each”
+Respondent #312
+18–24, Indore
+
+“Sharing my location with delivery partners, UC staff and the laptop repair guy despite giving it on the app.”
+Respondent #399
+25–34, Delhi
+
+What workarounds they use
+“I ordered a pair of shoes online, but the size was wrong. I had to find the order, check the return deadline, keep the original box and packaging, choose a pickup slot, and make sure someone would be home. The pickup did not happen on the first day, so I had to open the app again and reschedule it. Each step was small, but together it felt like too much work for one return.”
+Respondent #85 · 18–24, Bhopal
+
+“i have ordered some 8-9 items from amazon by my friend's account and i was calling him regularly 4-5 days to ask him which parcel will come today which was quite hectic as he was calling me sometimes that parcel has arrived but i was somewhere out and wasn't available”
+Respondent #151 · 18–24, Hyderabad
+
+How to approach the solution
+While respondents describe this opening in the language of interruption and frustration, underneath what sits is a problem of trust and identity — which is currently addressed by a six-digit code.
+
+Agents raise the stakes: trust that today passes awkwardly between humans must soon pass between humans and machines, and the OTP was never designed to carry that.
+
+The weakest solutions will simply swap the OTP for an agentic handshake and relocate the friction. The strongest will start from the emotional pain: the meeting interrupted, the mother stranded at the door and grant trust to the household as a unit, since the buyer and the receiver are so rarely the same person. Simultaneously they will need to understand and account for why platforms injected OTPs into their processes in the first place and meet their emotional needs too. Returns pickup then adds the layer that makes this opening a genuine test of the competition: one flow that must connect logistics, voice and payments to work at all.

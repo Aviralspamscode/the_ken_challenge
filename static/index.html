@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ghar Pass</title>
+  <link rel="stylesheet" href="/assets/styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+Devanagari:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <span class="mark">G</span>
+      <div>
+        <h1>Ghar Pass.</h1>
+        <p>The code follows whoever is home.</p>
+      </div>
+    </div>
+    <div class="meta">
+      <div class="chip" id="clockChip">Sat 3 Oct 2026 · 09:00 IST</div>
+      <div class="chip keys" id="keysChip">keys…</div>
+    </div>
+    <div class="actions">
+      <span class="rec" id="recDot">REC</span>
+      <button id="resetBtn" class="ghost">Reset day</button>
+    </div>
+  </header>
+  <div class="hairline" aria-hidden="true"></div>
+
+  <main class="deck">
+    <section class="console pane">
+      <div class="pane-head">
+        <h2>Agent</h2>
+        <span id="busyChip" class="idle">idle</span>
+      </div>
+      <div id="log" class="log"></div>
+    </section>
+
+    <section class="chats">
+      <article class="wa" data-alias="ritika">
+        <header><strong>Ritika (buyer)</strong></header>
+        <div class="thread" id="thread-ritika"></div>
+        <form class="composer" data-alias="ritika">
+          <input name="text" placeholder="Ritika types…" autocomplete="off" />
+          <button type="submit">Send</button>
+        </form>
+      </article>
+      <article class="wa" data-alias="sunita">
+        <header><strong>सुनीता (maa)</strong></header>
+        <div class="thread" id="thread-sunita"></div>
+        <form class="composer" data-alias="sunita">
+          <input name="text" placeholder="सुनीता लिखती हैं…" autocomplete="off" />
+          <button type="submit">Send</button>
+        </form>
+      </article>
+    </section>
+  </main>
+
+  <aside class="rail">
+    <p class="rail-kicker">01 — 11</p>
+    <h3>Feed the world</h3>
+    <p class="hint">Curtain pastes partner JSON only. Never prompt the agent.</p>
+    <div id="scenarioBtns" class="stack"></div>
+    <div class="clock-row">
+      <button data-min="1">+1 min</button>
+      <button data-min="10">+10 min</button>
+    </div>
+  </aside>
+
+  <div id="callBooth" class="modal hidden">
+    <div class="card call-card">
+      <p class="warn">Live call</p>
+      <div class="who" id="callWho"></div>
+      <div id="callThread" class="call-thread"></div>
+      <div class="row">
+        <button id="talkBtn" type="button">Hold to talk</button>
+        <button id="hangupBtn" type="button" class="ghost">Hang up</button>
+      </div>
+      <p class="hint" id="callHint">Teammate plays Sunita. Speak Hindi after she finishes.</p>
+    </div>
+  </div>
+
+  <div id="curtain" class="modal hidden">
+    <div class="card">
+      <p class="warn">Curtain</p>
+      <p class="hint">Paste only the partner JSON. Do not add instructions.</p>
+      <div class="who" id="curtainWho"></div>
+      <pre id="curtainReq"></pre>
+      <label>Response
+        <textarea id="curtainText" spellcheck="false"></textarea>
+      </label>
+      <div class="row">
+        <button id="useSample" type="button" class="ghost">Load sample</button>
+        <button id="submitCurtain" type="button">Submit</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="/assets/app.js"></script>
+</body>
+</html>

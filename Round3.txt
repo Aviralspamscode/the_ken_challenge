@@ -1,0 +1,58 @@
+Only the strongest Round 2 submissions move on to Round 3, one step closer to the finale, where things narrow and the prizes get real: a share of the ₹20 lakh prize pool, plus a credit in The Ken’s agentic map.
+
+This round is harder. Only the top 10 teams across India make it to the finale.
+
+But it’s also going to be the most fun round so far.
+
+Run a simulation of your agent, then build the business around it
+Round 2 asks for an agent designed on paper. Round 3 has two parts. First, run a simulation of the agent. Then work out which company turns it into a business, and how.
+
+The simulation uses a method called Wizard of Oz. The parts that can run, run. The parts that don’t exist yet are played by someone behind a curtain.
+
+The agent is the part that runs. It’s an AI model like Claude or Gemini, following a system prompt, making every decision on its own. Wherever the model can connect to something directly, like Gmail, WhatsApp or Google Sheets, it connects. Everything else is played by a team member behind the curtain:
+
+What the agent connects to
+Gnani: run the audio or text through Gnani’s API, and paste back exactly what Gnani returns.
+Pine Labs and Delhivery: reply with the response their documentation says they’d send.
+Anything else from the outside world, like a voice note arriving or the clock hitting 5 PM: a team member feeds it in. It must come from a real source. If no real source produces it today, the agent can’t have it.
+The person behind the curtain never helps the agent think. They only play the world around it. If an agent needs someone to tell it what to do next, it isn’t an agent yet.
+
+Recording the simulation
+A screen recording from the first thing that happens to the moment the agent’s outcome is achieved.
+The recording must show every input arriving, every call the agent makes to Gnani, Pine Labs or Delhivery and the response that comes back, and every message the agent sends to a person.
+5 minutes at most. Fast-forward the parts where the model is thinking.
+The link, along with the system prompt and the name of the model used.
+Questions to answer
+Part 1: Your agent
+The story of one person using the agent, named, dated, told in the order it happens, the way you’d explain it to a friend. What they see, what they say, and what the agent does in reply. 100 words at most.
+
+Then every decision the agent makes in the recording, in order. A decision is any point where the agent picks one thing over another. For each one:
+
+When: the date and time.
+What the agent received: the input that triggered the decision.
+Where it came from: the connector, and the real source behind it.
+What it decided.
+Why: the rule in the system prompt it followed.
+What it did or said, and to whom: the actual message or action, word for word.
+Through what: the connector.
+What the agent knows on day one, before anyone has used it, and who gives it that information, and how.
+
+For every call the agent makes to Pine Labs, Delhivery or Gnani, the exact endpoint from their documentation, and the request and response. Up to 3 capabilities that don’t exist yet can be imagined, listed separately, each naming the partner, the endpoint, and what data that partner already holds that makes it possible.
+
+A mockup of every screen or conversation where the agent meets a person, whether that’s a WhatsApp chat, a call script, an app screen or a notification.
+
+Each rail scored out of 10 on how agent-ready it is, with one reason per score.
+
+Part 2: Build the business around your agent
+If the agent works, which company turns it into a business, and how?
+
+Where the agent lives, and how a customer starts using it. Its own app, a feature inside another company’s app, a WhatsApp number, or something else.
+Which company should build it, and why them. What they already have that nobody else does, and why they haven’t built it yet.
+Who they’ll sell it to, and how they’ll make money from it. What those customers do today instead, what that costs them, and whether the customer pays or the company earns from something else, like more orders.
+How the agent gets its first 1,000 users, where those people already spend time, what gets someone to try it the first time, and what keeps them using it after three weeks.
+A landing page for the agent, the way the company named above would build it, with a call to action to sign up.
+What could kill this agent in its first year.
+When to submit
+Submissions close by Sunday, 4 October, 11:59 PM IST. The submission portal isn’t live yet — it opens to teams shortlisted for this round.
+
+The strongest agents from this round go to the finale, shown working in front of a jury, with a ₹5 lakh first prize and more prizes to play for.
